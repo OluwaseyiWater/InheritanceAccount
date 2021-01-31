@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\InheritanceAccount\obj\Debug\InheritanceAccount.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\InheritanceAccount\obj\Debug\InheritanceAccount.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\InheritanceAccount\bin\Debug\InheritanceAccount.exe.config
+C:\Users\DELL\source\repos\InheritanceAccount\bin\Debug\InheritanceAccount.exe
+C:\Users\DELL\source\repos\InheritanceAccount\bin\Debug\InheritanceAccount.pdb
+C:\Users\DELL\source\repos\InheritanceAccount\obj\Debug\InheritanceAccount.exe
+C:\Users\DELL\source\repos\InheritanceAccount\obj\Debug\InheritanceAccount.pdb

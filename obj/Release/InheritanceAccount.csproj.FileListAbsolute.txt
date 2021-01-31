@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\InheritanceAccount\bin\Release\InheritanceAccount.exe.config
+C:\Users\DELL\source\repos\InheritanceAccount\bin\Release\InheritanceAccount.exe
+C:\Users\DELL\source\repos\InheritanceAccount\bin\Release\InheritanceAccount.pdb
+C:\Users\DELL\source\repos\InheritanceAccount\obj\Release\InheritanceAccount.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\InheritanceAccount\obj\Release\InheritanceAccount.exe
+C:\Users\DELL\source\repos\InheritanceAccount\obj\Release\InheritanceAccount.pdb
+C:\Users\DELL\source\repos\InheritanceAccount\obj\Release\InheritanceAccount.csprojAssemblyReference.cache
